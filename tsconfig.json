@@ -11,8 +11,11 @@
       "strict": true,
       "skipLibCheck": true
     },
+    "include": [
+      "backend"
+    ],
     "exclude": [
-      "client",
+      "frontend",
       "dist",
       "node_modules"
     ]
